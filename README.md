@@ -1,2 +1,2 @@
 # ip-location
-Test page-->puqing.ooo
+Test page-->[Mozilla](puqing.ooo/test.php)
