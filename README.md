@@ -1,2 +1,2 @@
 # ip-location
-Test page-->[puqing.ooo](puqing.ooo/test.php)
+Test page to-->[puqing.ooo](http://puqing.ooo/test.php)
